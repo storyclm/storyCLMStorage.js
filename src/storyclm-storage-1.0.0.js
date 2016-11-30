@@ -6,7 +6,7 @@
 
 window.StoryCLMStoragePrefix = "PresName";
 
-; (function (w) {
+(function (w) {
 
     w.StoryCLMStorage = (function () {
 
